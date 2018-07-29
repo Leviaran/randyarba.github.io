@@ -5,8 +5,7 @@ cache:
 notifications:
   email:
     recipients:
-      - randy.arba@gmail.com
-      - blincked@gmail.com
+      - randy.arba@gmail.com      
     on_success: always
     on_failure: always
 node_js:
